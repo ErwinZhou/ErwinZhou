@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+ErwinZhou;Welcome+to+my+Rivendell)](https://git.io/typing-svg)
+                                        [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+ErwinZhou;Welcome+to+my+Rivendell)](https://git.io/typing-svg)
 - 👋 Hi, I’m @ErwinZhou
 - 🌱 I’m currently pursuing a bachelor's degree of Information Security at Nankai University 
 - 💞️ I’m also a big fun of films and TV series, hoping to write a movie script by myself one day
