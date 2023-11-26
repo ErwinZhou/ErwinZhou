@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+HI,I'm+ErwinZhou;Welcome+to+my+Rivendell!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+I'm+ErwinZhou;Welcome+to+my+Rivendell!" />
 </p>
 
 - 👋 Hi, I’m @ErwinZhou
