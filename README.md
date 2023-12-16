@@ -8,7 +8,7 @@
 - 🔭 I hold dreams of a master degree of Computer Science in the US and a stage with more possibilities
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=compact&hide=javascript)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=compact)
 
 <!---
 ErwinZhou/ErwinZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
