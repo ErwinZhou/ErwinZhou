@@ -9,7 +9,10 @@
 - 🔭 I hold dreams of a master degree of Computer Science in the US and a stage with more possibilities.
 
 My research focus mainly on multimodal and federated learning. If you got any insights into related fields, just reach me via [email](ErwinZhou@outlook.com), let's build something together.
-
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight" style="display: block; margin: 0 auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=compact" style="display: block; margin: 0 auto;" />
+</div>
 
 <!---
 ErwinZhou/ErwinZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
