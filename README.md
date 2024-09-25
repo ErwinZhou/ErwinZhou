@@ -14,6 +14,24 @@ My research focus mainly on multimodal and federated learning. If you got any in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=compact" style="display: block; margin: 0 auto;" />
 </div>
 
+
+Education 🎓
+------  
+<img align="right" width="88" src="https://github.com/ErwinZhou/ErwinZhou.github.io/blob/main/images/Nankai.png" />
+
+- **B.E. in Information Security** &emsp; 📌 2021-9-1 — Present
+  - [College of Cyber Security](https://encyber.nankai.edu.cn/) • [Nankai University](https://en.nankai.edu.cn/), Tianjin, China
+
+
+Experience 💼
+------
+<img align="right" width="88" src="https://github.com/ErwinZhou/ErwinZhou.github.io/blob/main/images/TsingHua.png" />
+
+- **[Beijing Information Science and Technology National Research Center (BNRIST)](https://www.bnrist.tsinghua.edu.cn/bnristen/) • [Tsinghua University](https://www.tsinghua.edu.cn/en/)** &emsp; 📌 2024-8-17 — Present
+  - Position: **Research Intern**
+  - Advisor: [Dr. Sicheng Zhao](https://sites.google.com/view/schzhao)
+  - Focus: Multimodal, LLM, federated learning, etc.
+
 <!---
 ErwinZhou/ErwinZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
