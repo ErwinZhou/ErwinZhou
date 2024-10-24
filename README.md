@@ -12,7 +12,7 @@ My research focus mainly on multimodal and federated learning. If you got any in
 
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight" style="display: block; margin: 0 auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=compact&hide=html&&exclude_repo=Software-Engineering-project-management-test,SE2024-ProjectManagement-test,FedMoLLM,Big-Data-Analytics-and-Application-2024" style="display: block; margin: 0 auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=donut&hide=html&&exclude_repo=Software-Engineering-project-management-test,SE2024-ProjectManagement-test,Big-Data-Analytics-and-Application-2024" style="display: block; margin: 0 auto;" />
 </div>
 
 
