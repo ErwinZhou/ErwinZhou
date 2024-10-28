@@ -29,7 +29,7 @@ Experience 💼
 ------
 <img align="right" width="88" src="https://github.com/ErwinZhou/ErwinZhou.github.io/blob/main/images/TsingHua.png" />
 
-- **[Beijing Information Science and Technology National Research Center (BNRIST)](https://www.bnrist.tsinghua.edu.cn/bnristen/) • [Tsinghua University](https://www.tsinghua.edu.cn/en/)** &emsp; 📌 2024-8-17 — Present
+- **[Beijing National Research Center for Information Science and Technology (BNRIST)](https://www.bnrist.tsinghua.edu.cn/bnristen/) • [Tsinghua University](https://www.tsinghua.edu.cn/en/)** &emsp; 📌 2024-8-17 — Present
   - Position: **Research Intern**
   - Advisor: [Dr. Sicheng Zhao](https://sites.google.com/view/schzhao)
   - Focus: Multimodal, LLM, federated learning, etc.
