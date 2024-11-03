@@ -22,7 +22,7 @@ Education 🎓
 <img align="right" width="88" src="https://github.com/ErwinZhou/ErwinZhou.github.io/blob/main/images/Nankai.png" />
 
 - **B.E. in Information Security** &emsp; 📌 2021-9-1 — Present
-  - [College of Cyber Security](https://encyber.nankai.edu.cn/) • [Nankai University](https://en.nankai.edu.cn/), Tianjin, China
+  - [College of Cyber Science](https://encyber.nankai.edu.cn/) • [Nankai University](https://en.nankai.edu.cn/), Tianjin, China
 
 
 Experience 💼
