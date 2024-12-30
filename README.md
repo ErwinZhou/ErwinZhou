@@ -3,12 +3,12 @@
 </p>
 
 - ✨ Welcome, my friend
-- 🌱 I’m an undergraduate student pursuing a bachelor's degree of Information Security at Nankai University.
-- 👨‍💻 I'm currently working as a Research Assistant in [Tsinghua University, BNRIST, Beijing](https://www.bnrist.tsinghua.edu.cn/bnristen/).
-- 💞️ I’m also a big fun of films and TV series, hoping to write a movie script by myself one day.
-- 🔭 I hold dreams of a master degree of Computer Science in the US and a stage with more possibilities.
+- 🌱 I’m an undergraduate student pursuing a bachelor's degree in Information Security at Nankai University.
+- 👨‍💻 I'm currently working as a Research Assistant at [Tsinghua University, BNRIST, Beijing](https://www.bnrist.tsinghua.edu.cn/bnristen/).
+- 💞️ I’m also a big fan of films and TV series, hoping to write a movie script by myself one day.
+- 🔭 I hold dreams of a master's degree in Computer Science in the US and a stage with more possibilities.
 
-My research focus mainly on multimodal and federated learning. If you got any insights into related fields, just reach me via [email](ErwinZhou@outlook.com), let's build something together.
+My research focuses mainly on multimodal and federated learning. If you have any insights into related fields, just reach me via [email](ErwinZhou@outlook.com), and let's build something together.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight&hide=prs" style="display: block; margin: 0 auto;" />
@@ -23,7 +23,8 @@ Education 🎓
 
 - **B.E. in Information Security** &emsp; 📌 2021-9-1 — Present
   - [College of Cyber Science](https://encyber.nankai.edu.cn/) • [Nankai University](https://en.nankai.edu.cn/), Tianjin, China
-
+  - Advisor: [Prof. Zheli Liu](https://scholar.google.co.uk/citations?user=PpBb6vUAAAAJ&hl=en&oi=ao)
+  - Thesis
 
 Experience 💼
 ------
