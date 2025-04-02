@@ -24,7 +24,7 @@ Education 🎓
 - **B.E. in Information Security** &emsp; 📌 2021-9-1 — Present
   - [College of Cyber Science](https://encyber.nankai.edu.cn/) • [Nankai University](https://en.nankai.edu.cn/), Tianjin, China
   - Advisor: [Prof. Zheli Liu](https://scholar.google.co.uk/citations?user=PpBb6vUAAAAJ&hl=en&oi=ao)
-  - Thesis
+  - Thesis: Federated LLM for Parent-Child Interaction Therapy. 
 
 Experience 💼
 ------
