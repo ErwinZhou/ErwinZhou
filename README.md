@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=👋+I'm+ErwinZhou;Welcome+to+my+Rivendell" />
-</p>
-
 - ✨ Welcome, my friend
 - 🌱 I’m an undergraduate student pursuing a bachelor's degree in Information Security at Nankai University.
 - 👨‍💻 I'm currently working as a Research Assistant at [Tsinghua University, BNRIST, Beijing](https://www.bnrist.tsinghua.edu.cn/bnristen/).
