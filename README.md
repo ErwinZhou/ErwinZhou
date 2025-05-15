@@ -6,9 +6,9 @@
 - 🌱 I’m an undergraduate student pursuing a bachelor's degree in Information Security at Nankai University.
 - 👨‍💻 I'm currently working as a Research Assistant at [Tsinghua University, BNRIST, Beijing](https://www.bnrist.tsinghua.edu.cn/bnristen/).
 - 💞️ I’m also a big fan of films and TV series, hoping to write a movie script by myself one day.
-- 🔭 I hold dreams of a master's degree in Computer Science in the US and a stage with more possibilities.
+- 🔭 I am an upcoming graduate student of the Master of Science in Information Networking program at Carnegie Mellon University.
 
-My research focuses mainly on multimodal, LLM, and federated learning. If you have any insights into related fields, feel free to reach out to me via [email](ErwinZhou@outlook.com), and let's build something together.
+My research focuses mainly on multimodal, LLM, and federated learning. If you have any insights into related fields, feel free to reach out to me via [email](erwinzhou@cmu.edu), and let's build something together.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight&hide=prs" style="display: block; margin: 0 auto;" />
@@ -19,9 +19,14 @@ My research focuses mainly on multimodal, LLM, and federated learning. If you ha
 
 Education 🎓
 ------  
+<img align="right" width="88" src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/logos/CMU/Carnegie_Mellon_University_seal.png" />
+
+- **M.S in Information Networking** &emsp; 📌 2025-8-11 — 2027-12
+  - [Institute of Information Networking](https://www.cmu.edu/ini/) • [College of Engineering](https://engineering.cmu.edu/) • [Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh, Pennsylvania, U.S.
+ 
 <img align="right" width="88" src="https://github.com/ErwinZhou/ErwinZhou.github.io/blob/main/images/Nankai.png" />
 
-- **B.E. in Information Security** &emsp; 📌 2021-9-1 — Present
+- **B.E. in Information Security** &emsp; 📌 2021-9-1 — 2026-6-30
   - [College of Cyber Science](https://encyber.nankai.edu.cn/) • [Nankai University](https://en.nankai.edu.cn/), Tianjin, China
   - Advisor: [Prof. Zheli Liu](https://scholar.google.co.uk/citations?user=PpBb6vUAAAAJ&hl=en&oi=ao)
 
