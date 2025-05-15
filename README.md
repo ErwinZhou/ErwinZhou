@@ -17,7 +17,7 @@ Education 🎓
 ------  
 <img align="right" width="88" src="https://raw.githubusercontent.com/ErwinZhou/pics_home/main/logos/CMU/Carnegie_Mellon_University_seal.png" />
 
-- **M.S in Information Networking** &emsp; 📌 2025-8-11 — 2027-12
+- **M.S. in Information Networking** &emsp; 📌 2025-8-11 — 2027-12
   - [Institute of Information Networking](https://www.cmu.edu/ini/) • [College of Engineering](https://engineering.cmu.edu/) • [Carnegie Mellon University](https://www.cmu.edu/), Pittsburgh, Pennsylvania, U.S.
   - Advisor: [Dr. Mohamed Farag](https://www.cmu.edu/ini/about/team/farag.html)
 
