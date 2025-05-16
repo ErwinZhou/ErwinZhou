@@ -1,7 +1,7 @@
 - ✨ Welcome, my friend
-- 🌱 I’m an undergraduate student pursuing a bachelor's degree in Information Security at Nankai University.
-- 🔭 I am an upcoming graduate student of the Master of Science in Information Networking program at Carnegie Mellon University.
-- 💞️ I’m also a big fan of films and TV series, hoping to write a movie script by myself one day.
+- 🌱 I'm an undergraduate student pursuing the Bachelor of Engineering in Information Security degree at Nankai University.
+- 🔭 I'm an upcoming graduate student of the Master of Science in Information Networking program at Carnegie Mellon University.
+- 💞️ I'm also a big fan of films and TV series, hoping to write a movie script by myself one day.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight&hide=prs" style="display: block; margin: 0 auto;" />
