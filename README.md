@@ -1,7 +1,6 @@
-- ✨ Welcome, my friend
-- 🌱 I'm an upcoming graduate student of the Master of Science in Information Networking program at Carnegie Mellon University.
+- ✨ Welcome,
+- 🌱 I'm a graduate student at Carnegie Mellon University, focusing on computer systems and machine leanring.
 - 🔭 I previously graduated from Nankai University with a Bachelor of Engineering in Information Security and once worked at the [BNRist](https://www.bnrist.tsinghua.edu.cn/bnristen/) from Tsinghua University.
-- 💞️ I'm also a big fan of films and TV series, hoping to write a movie script by myself one day.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight&hide=prs" style="display: block; margin: 0 auto;" />
