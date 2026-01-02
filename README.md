@@ -1,7 +1,7 @@
 - ✨ Welcome,
 - 🌱 I am a graduate student at Carnegie Mellon University, focusing on computer systems and machine leanring.
 - 🔭 I graduated from Nankai University with a degree in cybersecurity and once worked at the [BNRist](https://www.bnrist.tsinghua.edu.cn/bnristen/) from Tsinghua University.
-- 🏢 I am currentyly actively looking for 2026 summer internships and eagering to build real impact.
+- 🏢 I am actively looking for 2026 summer internships and eagering to build real impact.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight&hide=prs" style="display: block; margin: 0 auto;" />
