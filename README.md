@@ -1,10 +1,10 @@
 - ✨ Welcome,
-- 🌱 I am a graduate student at Carnegie Mellon University, focusing on computer systems and machine leanring.
+- 🌱 I am a graduate student at Carnegie Mellon University, focusing on computer systems and machine learning.
 - 🔭 I graduated from Nankai University with a degree in cybersecurity and once worked at the [BNRist](https://www.bnrist.tsinghua.edu.cn/bnristen/) from Tsinghua University.
-- 🏢 I am actively looking for 2026 summer internships and eagering to build real impact.
+- 🏢 I am actively looking for 2026 summer internships and eager to build real impact.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight&hide=prs" style="display: block; margin: 0 auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ErwinZhou&show_icons=true&theme=tokyonight" style="display: block; margin: 0 auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=compact&hide=html&&exclude_repo=Software-Engineering-project-management-test,SE2024-ProjectManagement-test,Big-Data-Analytics-and-Application-2024" style="display: block; margin: 0 auto;" />
 </div>
 
