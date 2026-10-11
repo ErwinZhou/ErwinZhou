@@ -6,7 +6,6 @@
 
 [Portfolio](https://erwinzhou.github.io) · [Resume](https://erwinzhou.github.io/files/Yuchen-Zhou-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/yuchen-zhou-325513317/) · [Email](mailto:erwinzhou10@gmail.com)
 
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
 
@@ -50,8 +49,14 @@
 
 <img align="right" width="88" src="images/TsingHua.png" alt="Tsinghua University seal" />
 
-- **Research Assistant @ Tsinghua University / BNRIST** &emsp; Jul 2024 — Jul 2025
-  - AI4Sci · NLP · LLM training & fine-tuning · LLM Deployed & Inferencing 
+- **Research Assistant @ [Tsinghua University](https://www.tsinghua.edu.cn/en/)** &emsp; Jul 2024 — Jul 2025
+  - [Beijing National Research Center for Information Science and Technology (BNRIST)](https://www.bnrist.tsinghua.edu.cn/bnristen/)
+  - Advisor: [Dr. Sicheng Zhao](https://sites.google.com/view/schzhao)
+  - **Projects & patents:**
+    - [Federated Instruction Tuning for Multimodal LLMs](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=122047392B&KC=B&FT=D) · **CN122047392B** · Granted Jun 26, 2026
+    - [Mind-Mindedness Hierarchical Sentiment Classification (LLM-based)](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=122045964B&KC=B&FT=D) · **CN122045964B** · Granted Jun 23, 2026
+  - AI4Sci · NLP · Multimodal LLMs · Federated learning · Instruction tuning · Adapter personalization
+  - LLM training & fine-tuning · Hierarchical classification · Focal loss · Transfer learning · LLM deployment & inference
 
 <br clear="right" />
 
