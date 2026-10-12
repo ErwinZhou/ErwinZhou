@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="232" viewBox="0 0 520 232" role="img" aria-labelledby="title desc">
+<title id="title">Languages</title>
+<desc id="desc">Language percentages.</desc>
+<rect x="0.5" y="0.5" width="519" height="231" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#24292f">
+<text x="24" y="34" font-size="18" font-weight="bold">Languages</text>
+<defs><clipPath id="bar"><rect x="24" y="56" width="472" height="10" rx="5"/></clipPath></defs>
+<g clip-path="url(#bar)">
+<rect x="24.0000" y="56" width="196.4558" height="10" fill="#f34b7d"/>
+<rect x="220.4558" y="56" width="170.2156" height="10" fill="#555555"/>
+<rect x="390.6714" y="56" width="49.4912" height="10" fill="#3572A5"/>
+<rect x="440.1626" y="56" width="17.7817" height="10" fill="#e34c26"/>
+<rect x="457.9443" y="56" width="15.2762" height="10" fill="#00ADD8"/>
+<rect x="473.2205" y="56" width="10.9704" height="10" fill="#f1e05a"/>
+<rect x="484.1909" y="56" width="4.7268" height="10" fill="#b07219"/>
+<rect x="488.9177" y="56" width="3.1635" height="10" fill="#89e051"/>
+<rect x="492.0812" y="56" width="3.9188" height="10" fill="#94a3b8"/>
+</g>
+<circle cx="29" cy="92" r="5" fill="#f34b7d"/>
+<text x="42" y="96" font-size="12">C++</text>
+<text x="242" y="96" font-size="12" text-anchor="end">41.6%</text>
+<circle cx="273" cy="92" r="5" fill="#555555"/>
+<text x="286" y="96" font-size="12">C</text>
+<text x="486" y="96" font-size="12" text-anchor="end">36.1%</text>
+<circle cx="29" cy="120" r="5" fill="#3572A5"/>
+<text x="42" y="124" font-size="12">Python</text>
+<text x="242" y="124" font-size="12" text-anchor="end">10.5%</text>
+<circle cx="273" cy="120" r="5" fill="#e34c26"/>
+<text x="286" y="124" font-size="12">HTML</text>
+<text x="486" y="124" font-size="12" text-anchor="end">3.8%</text>
+<circle cx="29" cy="148" r="5" fill="#00ADD8"/>
+<text x="42" y="152" font-size="12">Go</text>
+<text x="242" y="152" font-size="12" text-anchor="end">3.2%</text>
+<circle cx="273" cy="148" r="5" fill="#f1e05a"/>
+<text x="286" y="152" font-size="12">JavaScript</text>
+<text x="486" y="152" font-size="12" text-anchor="end">2.3%</text>
+<circle cx="29" cy="176" r="5" fill="#b07219"/>
+<text x="42" y="180" font-size="12">Java</text>
+<text x="242" y="180" font-size="12" text-anchor="end">1.0%</text>
+<circle cx="273" cy="176" r="5" fill="#89e051"/>
+<text x="286" y="180" font-size="12">Shell</text>
+<text x="486" y="180" font-size="12" text-anchor="end">0.7%</text>
+<circle cx="29" cy="204" r="5" fill="#94a3b8"/>
+<text x="42" y="208" font-size="12">Other</text>
+<text x="242" y="208" font-size="12" text-anchor="end">0.8%</text>
+</g></svg>

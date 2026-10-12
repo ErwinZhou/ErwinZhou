@@ -6,7 +6,10 @@
 
 [Portfolio](https://erwinzhou.github.io) · [Resume](https://erwinzhou.github.io/files/Yuchen-Zhou-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/yuchen-zhou-325513317/) · [Email](mailto:erwinzhou10@gmail.com)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinZhou&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Languages](images/languages.svg)
+
+<!-- Refresh locally with: python3 scripts/update_languages.py -->
+
 ---
 
 ## 🎓 Education
