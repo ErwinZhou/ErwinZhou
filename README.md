@@ -4,9 +4,16 @@
 - 🏢 Most recently I applied that systems background to AI agent infrastructure, contributing to the core of ENFOS's first agentic platform, Atlas AI, as a software engineering intern.
 - 🚀 I am graduating by December 2026 so I am actively looking for **2027 New Grad SDE roles** in the US. Career Launch is approaching!
 
-[Portfolio](https://erwinzhou.github.io) · [Resume](https://erwinzhou.github.io/files/Yuchen-Zhou-Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/yuchen-zhou-325513317/) · [Email](mailto:erwinzhou10@gmail.com)
+<p align="center">
+  <a href="https://erwinzhou.github.io">Portfolio</a> ·
+  <a href="https://erwinzhou.github.io/files/Yuchen-Zhou-Resume.pdf">Resume</a> ·
+  <a href="https://www.linkedin.com/in/yuchen-zhou-325513317/">LinkedIn</a> ·
+  <a href="mailto:erwinzhou10@gmail.com">Email</a>
+</p>
 
-![Languages](images/languages.svg)
+<p align="center">
+  <img src="images/languages.svg" alt="Languages" width="520" />
+</p>
 
 <!-- Refresh locally with: python3 scripts/update_languages.py -->
 
